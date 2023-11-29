@@ -1634,10 +1634,16 @@ button,
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
   margin: 0 0 2em -3em;
   width: calc(100% + 3em); }
   .features .icon {
     font-size: 100px;
+  }
+  .features img {
+    width: 250px;
+    margin: 0;
+    padding: 0;
   }
   .features article {
     -moz-align-items: center;
