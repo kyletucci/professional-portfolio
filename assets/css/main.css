@@ -248,9 +248,8 @@ hr {
   background-image: url("../../images/revel-salon-fullpage.png");
 }
 .scroll-pic.fretboard {
-  background-image: url("../../images/IT_Portal_Assets.png");
-  background-size: contain;
-  background-position: 0 100%;
+  background-image: url("../../images/it-portal-demo.gif");
+  background-position: center;
 }
 
 /* Row */
