@@ -417,14 +417,32 @@ hr.major {
 .scroll-pic:hover {
   background-position: 0 100%;
 }
-.scroll-pic.suffolk {
+/* .scroll-pic.suffolk {
   background-image: url("../../images/suffolk-tech-solutions-fullpage.png");
-}
-.scroll-pic.revel {
+} */
+/* .scroll-pic.revel {
   background-image: url("../../images/revel-salon-fullpage.png");
+} */
+
+.scroll-pic.transforming {
+  background-image: url("../../images/licmarraige.png");
 }
-.scroll-pic.fretboard {
+
+.scroll-pic.lindsey {
+  background-image: url("../../images/lindsey.png");
+}
+
+.scroll-pic.healing {
+  background-image: url("../../images/healing.png");
+}
+
+.scroll-pic.ticket {
   background-image: url("../../images/it-portal-demo.gif");
+  background-position: center;
+}
+
+.scroll-pic.fretboard {
+  background-image: url("../../images/fretboard-fullpage.png");
   background-position: center;
 }
 
